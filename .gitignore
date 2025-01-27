@@ -1,0 +1,10 @@
+# Ignore arquivos do VSCode
+.vscode/
+
+# Ignore arquivos de ambiente do Anaconda
+*.conda
+*.env
+*.pyc
+
+# Ignore o arquivo de dados se não quiser subir para o GitHub
+data/
